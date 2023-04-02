@@ -1,0 +1,32 @@
+const Codes = [
+    "Arrow Heart",
+    "Gifted Heart",
+    'Shiny Heart',
+    'Blush Heart',
+    'Beating Heart',
+    "Couple Heart",
+    'Love Heart',
+    'Heart Emblem',
+    'Heart With Dot',
+    'Broken Heart',
+    'Heart "Red"',
+    'Heart "Orange"',
+    'Heart "Yellow"',
+    'Heart "Green"',
+    'Heart "Blue"',
+    'Heart "Purple"',
+    'Heart "Brown"',
+    'Heart "Black"',
+    'Heart "White"',
+    'Heart',
+    "Fire",
+    'Heart',
+    'Bandage',
+    '100',
+    'Java',
+    'Angry',
+    'Chat',
+
+]
+
+export default Codes
