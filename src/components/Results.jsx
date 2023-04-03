@@ -4,7 +4,7 @@ import Emojis from './Emojis'
 function Results() {
 
     const Result = Emojis.map(
-        (emoji, key) =>
+        (emoji) =>
             <li className=' space-x-2 flex items-center my-2'>
                 <h1 className=' text-2xl'>{emoji}</h1>
             </li>
